@@ -4,7 +4,7 @@
 Get to know more about me:
 
 - 🔭 I’m currently working on my peronal portfolio.
-- 🌱 I’m currently learning C#, Java, SQL, Git, HTML/CSS/Javascript.
+- 🌱 I’m currently learning C#, Java, SQL, Git, HTML/CSS/Javascript/PHP.
 - 💬 Ask me about anything
 - 🖤 My hobbies are playing basketball, watching netflix, working out, and coding.
 - 📫 How to reach me: redkmonzon30@gmail.com
