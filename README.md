@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my peronal portfolio.
 - 🏫 I am currently studying at the Red River College Polytech.
-- 🎯 I would like to be a Full-Stack Engineer someday.
+- 🎯 I would like to be a Full-Stack Engineer oneday.
 - 💬 Ask me about anything
 - 🖤 My hobbies are playing basketball, watching netflix, working out, and coding.
 - 📫 How to reach me: redkmonzon30@gmail.com
